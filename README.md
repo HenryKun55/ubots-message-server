@@ -2,7 +2,7 @@
 
 ## Before all
 
-Create a *.env* file and set: **DATABASE_URL** and **DATABASE_AUTH_TOKEN**.
+Create a *.env* file and set: **DATABASE_URL** and **DATABASE_AUTH_TOKEN**. Here is using Turso (SQlite) with Drizzle ORM.
 
 Ex:
 ```bash
