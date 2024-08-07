@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "ts-patch install -s",
+    "prepare": "ts-patch install -s",
     "dev": "tsnd --env-file=.env ./src/server.ts",
     "prod": "node ./build/server.js",
     "build": "tsc && tsc-alias"
