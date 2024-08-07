@@ -16,6 +16,12 @@ DATABASE_AUTH_TOKEN=${DATABASE_AUTH_TOKEN}
 pnpm i
 ```
 
+## Install
+
+```bash
+pnpm prepare
+```
+
 ## Running
 
 ```bash
